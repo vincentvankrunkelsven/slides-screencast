@@ -1,9 +1,6 @@
 ---
-title       : Chapter 1
+title       : Chapter 2
 description : Insert the chapter description here
-attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
-
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:72d9b55c9c
 ## Exercise 1
