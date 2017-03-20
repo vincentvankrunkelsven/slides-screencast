@@ -5,6 +5,13 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:22d3ec1cb5
+## Welcome to the course
+
+*** =slides_key
+92d179019a6d5934563c11dcf7fa6370
+
 --- type:NormalExercise lang:r xp:100 skills:1 key:72d9b55c9c
 ## Exercise 1
 
