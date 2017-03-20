@@ -61,3 +61,5 @@ attachments :
 --- type:VideoExercise lang:r xp:50 skills:1 key:789590b254
 ## Exercise 3
 
+*** =slides_key
+2a3c287ae67a5daca58bef719782ef70
