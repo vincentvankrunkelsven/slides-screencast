@@ -66,3 +66,34 @@ $$\sum\_{i = 0}^{N}{\frac{i}{N}}$$ {{4}}
 *** =script
 
 
+
+--- type: TwoColumns
+## Some code
+
+*** =part1
+```{r}
+> summary(data)
+## ...
+> head(data)
+# ...
+``` {{1}}
+```{r}
+> ggplot(data, 
+         aes=(x=time, y=credits))
+   + geom_point()
+# ...
+
+``` {{2}}
+
+```{r}
+# Some calculations with dplyr
+```{{3}}
+
+*** =part2
+- Explore your data {{1}}
+- Visualize your data {{2}}
+- Munge your data {{3}}
+
+*** =script
+
+
