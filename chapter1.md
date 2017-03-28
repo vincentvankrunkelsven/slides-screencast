@@ -7,7 +7,7 @@ attachments :
 
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:22d3ec1cb5
-## Welcome to the course!
+## Welcome to the course
 
 *** =slides_key
 92d179019a6d5934563c11dcf7fa6370
