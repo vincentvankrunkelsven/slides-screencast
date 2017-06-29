@@ -15,6 +15,7 @@ attachments :
 --- type:NormalExercise lang:r xp:100 skills:1 key:72d9b55c9c
 ## Exercise 1
 
+Write some stuff down
 
 *** =instructions
 
