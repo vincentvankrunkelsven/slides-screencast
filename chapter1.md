@@ -6,7 +6,7 @@ attachments :
 
 
 
---- type:VideoExercise lang:r xp:50 skills:1 key:22d3ec1cb5
+--- type:VideoExercise lang:r xp:50 skills:1 key:72d9b55c9c
 ## Welcome to the course
 
 Some stuff
@@ -43,7 +43,7 @@ Write some stuff down
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:f97e6945bb
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1
 ## Exercise 2
 
 
