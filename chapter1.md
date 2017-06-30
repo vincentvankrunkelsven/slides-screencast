@@ -14,7 +14,7 @@ Some stuff
 *** =slides_key
 92d179019a6d5934563c11dcf7fa6370
 
---- type:NormalExercise lang:r xp:100 skills:1 key:72d9b55c9c
+--- type:NormalExercise lang:r xp:100 skills:1 key:ce4af30374
 ## Exercise 1
 
 Write some stuff down
@@ -43,7 +43,7 @@ Write some stuff down
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:f97e6945bb
 ## Exercise 2
 
 
