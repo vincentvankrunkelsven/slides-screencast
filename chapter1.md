@@ -2,7 +2,7 @@
 title       : Chapter 1
 description : Insert the chapter description here
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/production/course_3555/slides/chapter1.pdf
+  slides_link : http://s3.amazonaws.com/assets.datacamp.com/production/course_3555/slides/chapter1.pdf
 
 
 
