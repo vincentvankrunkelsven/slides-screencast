@@ -22,7 +22,7 @@ Welcome to this course about ,...
 One {{1}}
 
 *** =part2
-Two {{2}}
+Three {{2}}
 
 *** =script
 
