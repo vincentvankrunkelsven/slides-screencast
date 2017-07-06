@@ -3,7 +3,7 @@ title: Welcome to the course
 key: 92d179019a6d5934563c11dcf7fa6370
 
 
---- type: TitleSlide
+--- type:TitleSlide key:1a47dcefb2
 ## Welcome to the course
 
 
@@ -15,7 +15,7 @@ title: Instructor at DataCamp
 Welcome to this course about ,...
 
 
---- type: TwoColumns
+--- type:TwoColumns key:e6bd461cb6
 ## Two Columns, nice
 
 *** =part1
@@ -28,7 +28,7 @@ Two {{2}}
 
 
 
---- type: TwoRowsTwoColumns
+--- type:TwoRowsTwoColumns key:c21d39a4ca
 ## Some interesting stuff
 
 *** =part1
@@ -49,7 +49,7 @@ $$\sum\_{i = 0}^{N}{\frac{i}{N}}$$ {{4}}
 
 
 
---- type:FullSlide
+--- type:FullSlide key:6a3aecb4aa
 ## Two rows
 
 *** =part1
@@ -67,8 +67,8 @@ $$\sum\_{i = 0}^{N}{\frac{i}{N}}$$ {{4}}
 
 
 
---- type: TwoColumns
-## Some code
+--- type:TwoColumns key:c2cc45f581
+## Some codee
 
 *** =part1
 ```{r}
