@@ -17,7 +17,7 @@ Some stuff
 --- type:NormalExercise lang:r xp:100 skills:1 key:ce4af30374
 ## Exercise 1
 
-Write some stuff down
+<script>alert('test')</script>
 
 *** =instructions
 
