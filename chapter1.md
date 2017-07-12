@@ -9,7 +9,7 @@ attachments :
 --- type:VideoExercise lang:r xp:50 skills:1 key:72d9b55c9c
 ## Welcome to the courseee
 
-Some stuff
+Some random other stuff
 
 *** =slides_key
 92d179019a6d5934563c11dcf7fa6370
