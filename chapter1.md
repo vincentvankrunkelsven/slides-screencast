@@ -11,7 +11,7 @@ attachments :
 
 Some stuff here
 
-*** =slides_key
+*** =projector_key
 92d179019a6d5934563c11dcf7fa6370
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:ce4af30374
@@ -65,5 +65,5 @@ Some stuff here
 --- type:VideoExercise lang:r xp:50 skills:1 key:789590b254
 ## Exercise 3
 
-*** =slides_key
+*** =projector_key
 2a3c287ae67a5daca58bef719782ef70
