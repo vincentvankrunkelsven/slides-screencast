@@ -68,7 +68,7 @@ $$\sum\_{i = 0}^{N}{\frac{i}{N}}$$ {{4}}
 
 
 --- type:TwoColumns key:c2cc45f581
-## Some codee
+## Some code
 
 *** =part1
 ```{r}
