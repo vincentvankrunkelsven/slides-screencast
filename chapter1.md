@@ -37,7 +37,7 @@ Some stuff here
 
 *** =solution
 ```{r}
-print('test'...
+print('test')
 ```
 
 *** =sct
