@@ -18,6 +18,10 @@ Some stuff here
 ## Exercise 1
 
 *** =instructions
+- These
+- Are
+- Instructions
+- Nice
 
 *** =hint
 
@@ -67,3 +71,9 @@ Some stuff here
 
 *** =projector_key
 2a3c287ae67a5daca58bef719782ef70
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:097ac2f591
+## This is a video
+
+*** =projector_key
+5fca8b90ce32115ff40b2a4a4755c121

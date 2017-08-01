@@ -1,7 +1,7 @@
 ---
 title: Welcome to the course
 key: 92d179019a6d5934563c11dcf7fa6370
-
+video_link: https://videos.datacamp.com/transcoded/1796_intro-stats-eda/v1/hls-ch0_0.master.m3u8
 
 --- type:TitleSlide key:1a47dcefb2
 ## Welcome to the course
