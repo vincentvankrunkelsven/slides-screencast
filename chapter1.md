@@ -24,7 +24,7 @@ Some stuff here
 - instructions
 
 *** =hint
-
+- add hint
 *** =pre_exercise_code
 ```{r}
 
