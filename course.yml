@@ -8,3 +8,4 @@ time_needed      : 1 hour
 from             : "r-base-prod:13"
 datasets:
  test.R: __IGNORE__
+ something_else.png: "TESTING"
