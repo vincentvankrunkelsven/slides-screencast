@@ -15,6 +15,7 @@ Some stuff here
 92d179019a6d5934563c11dcf7fa6370
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:ce4af30374
+---
 ## Exercise 1
   
 *** =instructions
