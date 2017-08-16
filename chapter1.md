@@ -17,10 +17,6 @@ Some stuff here
 --- type:NormalExercise lang:r xp:100 skills:1 key:ce4af30374
 ## Exercise 1
   
-  
-  gjkhjhkj
-  
-  
 *** =instructions
 - These
 - are
