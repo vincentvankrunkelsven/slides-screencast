@@ -33,11 +33,13 @@ description : Insert the chapter description here
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:f97e6945bb
 ## Exercise 2
 
+This is an exercise
 
 *** =instructions
 - One
 - Two
 - Three
+- Four
 
 *** =hint
 
