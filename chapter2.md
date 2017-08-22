@@ -35,6 +35,9 @@ description : Insert the chapter description here
 
 
 *** =instructions
+- One
+- Two
+- Three
 
 *** =hint
 
