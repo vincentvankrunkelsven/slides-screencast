@@ -39,7 +39,6 @@ This is an exercise
 - One
 - Two
 - Three
-- Four
 
 *** =hint
 
