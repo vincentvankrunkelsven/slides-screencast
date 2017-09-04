@@ -94,6 +94,9 @@ $$\sum\_{i = 0}^{N}{\frac{i}{N}}$$ {{4}}
 - Visualize your data {{2}}
 - Munge your data {{3}}
 
+
+$$i + 3 = 5$$ {{3}}
+
 *** =script
 
 
